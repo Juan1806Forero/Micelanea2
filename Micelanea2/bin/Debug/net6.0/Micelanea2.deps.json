@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Micelanea2/1.0.0": {
+        "runtime": {
+          "Micelanea2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Micelanea2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

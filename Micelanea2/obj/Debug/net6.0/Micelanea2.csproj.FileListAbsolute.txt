@@ -1,0 +1,15 @@
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\bin\Debug\net6.0\Micelanea2.exe
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\bin\Debug\net6.0\Micelanea2.deps.json
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\bin\Debug\net6.0\Micelanea2.runtimeconfig.json
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\bin\Debug\net6.0\Micelanea2.dll
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\bin\Debug\net6.0\Micelanea2.pdb
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\obj\Debug\net6.0\Micelanea2.csproj.AssemblyReference.cache
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\obj\Debug\net6.0\Micelanea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\obj\Debug\net6.0\Micelanea2.AssemblyInfoInputs.cache
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\obj\Debug\net6.0\Micelanea2.AssemblyInfo.cs
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\obj\Debug\net6.0\Micelanea2.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\obj\Debug\net6.0\Micelanea2.dll
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\obj\Debug\net6.0\refint\Micelanea2.dll
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\obj\Debug\net6.0\Micelanea2.pdb
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\obj\Debug\net6.0\Micelanea2.genruntimeconfig.cache
+C:\Users\Sena\Documents\DCMotaot\Micelanea2\obj\Debug\net6.0\ref\Micelanea2.dll
